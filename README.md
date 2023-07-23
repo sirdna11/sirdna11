@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andris Klimkāns</h1>
 <h3 align="center">A passionate Software Developer from Latvia</h3>
-<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirdna11&label=Profile%20views&color=0e75b6&style=flat" alt="sirdna11" /> </p>
 
